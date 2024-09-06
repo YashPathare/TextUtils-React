@@ -1,4 +1,4 @@
-TextUtils - Text Analysis & Theme Customization
+**TextUtils - Text Analysis & Theme Customization**
 TextUtils is a simple, responsive React application designed to analyze text and provide various utilities like word count, character count, and case conversion. The app also offers dynamic theme customization with multiple color modes and a responsive navigation bar.
 
 Key Features
