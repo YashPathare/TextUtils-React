@@ -1,0 +1,27 @@
+.navbar-dark-primary {
+  background-color:  #004085; /* Slightly lighter shade of primary */
+}
+
+.navbar-dark-success {
+  background-color: #155724; /* Slightly lighter shade of success */
+}
+
+.navbar-dark-danger {
+  background-color: #951717; /* Slightly lighter shade of danger */
+}
+
+.navbar-dark-warning {
+  background-color: rgb(181, 155, 27); /* Slightly lighter shade of warning */
+}
+
+.navbar-dark-info {
+  background-color: #2096a8; /* Slightly lighter shade of info */
+}
+
+.navbar-dark-light {
+  background-color: #d6d6d6; /* Slightly lighter shade of light */
+}
+
+.navbar-dark-dark {
+  background-color: #495057; /* Slightly lighter shade of dark */
+}
